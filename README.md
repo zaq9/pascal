@@ -1,0 +1,2 @@
+# pascal
+Pascal's triangle
